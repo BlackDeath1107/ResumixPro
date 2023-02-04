@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Login form</title>
+      
+     
+    
+      
+        <link rel="stylesheet" href="stylelog.css">
+    </head>
+    <body>   
+      <div>
+                <button type="button" onclick="window.location.href='newpage.html'" ><span></span> &lt; Back</button>
+                
+            </div>
+    <div class="center">
+        <h1>Login</h1>
+
+        
+
+            <div class="txt_field">
+                <input type="email" id="email" required>
+                <span></span>
+                <label>Email</label>
+            </div>
+
+            <div class="txt_field">
+                <input  type="password" id="password" required>
+                <span></span>
+                <label>Password</label>
+            </div>
+              <div class="pass" onclick="forgotPass()">Forgot Password?</div>
+                        
+           
+             
+            
+                   
+                            
+            <input type="submit" onclick="login()" value="Login">
+                        
+            <div class="signup_link">
+                Don't have an account? <a href="./signup.html">Sign Up</a>
+            </div> 
+
+                    
+        </div>
+      </div>
+        
+    </div>  
+
+ 
+    </body>
+
+
+
+
+
+  
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+
+    <!-- Our script must be loaded after firebase references -->
+   
+    <script src="index.js"></script>
+
+</html>        
