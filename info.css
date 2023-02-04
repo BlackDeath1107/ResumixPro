@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color:#fff;
+    font-size: 40px;
+}
+body{
+    background: linear-gradient(120deg,#89C4E1,#B08BBB);
+    align-items: center;
+    color: #fff;
+}
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
