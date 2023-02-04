@@ -29,9 +29,21 @@ Well, good news. We have an AI automated CV generator with beautiful in-built te
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=red"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-     
+### Frameworks and libraries
+
+- Python
+- JQuery
+- Json
+
+
+### Some screenshots 
+
+_**Dashboard**_
+
+<img width="1680" alt="Screenshot 2023-02-05 at 4 59 45 AM" src="https://user-images.githubusercontent.com/96746497/216793733-111839eb-a478-4279-8dfc-0ccd77ef1077.png">
+
+
+<img width="1680" alt="Screenshot 2023-02-05 at 2 52 28 AM" src="https://user-images.githubusercontent.com/96746497/216793764-ecf91f57-2e03-45bf-aae4-b57e0e21e8c7.png">
+
+
