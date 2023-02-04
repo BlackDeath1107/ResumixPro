@@ -46,4 +46,37 @@ _**Dashboard**_
 
 <img width="1680" alt="Screenshot 2023-02-05 at 2 52 28 AM" src="https://user-images.githubusercontent.com/96746497/216793764-ecf91f57-2e03-45bf-aae4-b57e0e21e8c7.png">
 
+![Uploading signup.png…]()
+
+
+### Languages used for the front end
+
+- Html
+- CSS
+- Javascript
+### Languages used for back end
+- Django node
+- Node.js
+- Firebase
+
+## Inspiration
+Ever since we entered college, we have been bombarded with terms like CVs , resumes and other such terms which have confused us time and again. With the introduction of needing to produce CVs every now and then, we decided to provide a one stop solution for students where we generate automatic AI based professional CVs as well as use the information provided to us to search and look out for jobs and internships.
+The website has been made in accordance to the problems faced by our peers documenting the need to create a new CV generator which is easy to use, student friendly and becomes available to use on a day to day basis.
+## What it does?
+We **minimize** your time and effort by bringing together all the information you need regarding your desired jobs and internships. We take in your skillsets and generate an AI based CV for you. Those information are also used to search for jobs and internships that you need or want.  All in all its a simple way to start off with a well looking professional CV and  use it for your desired jobs and internships.
+## How we built it
+We started off with deciding the basic framework and the number of the pages and the interlinking between them. Then we proceeded with designing the basic HTML frameworks and added the CSS designs to it. Followed by some intense repeated changing of code we started with the backend and implemented Firebase, React and few other softwares to make the working perfect. With the use of python and API development, we finally finished the Ai generated project.
+## Challenges we ran into
+Some challenges we faced :
+1. Excessing and retrieving data from ChatGPT.
+2. CV Parsing
+3. Failing to make a parallax effect due to bad connectivity.
+4. Difficulty in call some functions.
+## Accomplishments that we're proud of
+Firstly, this being our first hackathon, we are proud of our teamwork and the hardwork and dedication we had. Through the ups and downs we stuck together and helped each other through out the 36 hours. We are proud to have made a fully functional website from scratch. Be it overcoming the repeated problems in our backend to changing and designing the frontend continuously, we are proud to have worked as a team and learnt a lot of new things.
+## What we learned
+We learnt about APIs and how easily it can be implemented using Postman. We learnt about the basics of Git and Github. We also came to know the processes of retrieving data from ChatGPT.
+## What's next for Resumix
+We plan on implementing features and new ways to enhance the webapp and make it into an application everyone can easily use.
+
 
