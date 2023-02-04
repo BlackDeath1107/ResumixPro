@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Signup</title>
+  <link rel="stylesheet" href="signup.css">
+</head>
+
+<body>
+    <div>
+                <button type="button" onclick="window.location.href='newpage.html'"><span></span> &lt; Back</button>
+                
+            </div>
+  <div class="center">
+    <h1>SignUp</h1>
+
+
+
+    <div class="txt_field">
+      <input type="text" id="full_name" required>
+      <span></span>
+      <label>Full Name</label>
+    </div>
+
+    <div class="txt_field">
+      <input type="email" id="email" required>
+      <span></span>
+      <label>Enter Email</label>
+    </div>
+
+    <div class="txt_field">
+      <input type="password" id="password" required>
+      <span></span>
+      <label>Password</label>
+    </div>
+
+    <div class="txt_field">
+      <input type="text" id="get_contact" required>
+      <span></span>
+      <label>Contact</label>
+    </div>
+
+
+
+
+
+    <input type="submit" onclick="register()" value="Sign Up">
+
+    <div class="signup_link">
+      Already have an acoount? <a href="loginpage.html">login</a>
+    </div>
+
+
+  </div>
+  </div>
+
+  </div>
+
+</body>
+<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+
+<!-- Our script must be loaded after firebase references -->
+
+<script src="index.js"></script>
+
+</html>
