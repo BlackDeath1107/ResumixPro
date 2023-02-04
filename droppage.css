@@ -1,0 +1,68 @@
+body{
+    background: linear-gradient(120deg,#89C4E1,#B08BBB);
+    color: #fff;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.dropbox {
+    background: rgba(255,255,255,0.2);
+    width: 400px;
+    border-radius: 10px ;
+    padding: 70px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color:#fff
+
+  }
+  .dropbox:hover{
+    background-color: rgba(255,255,255,0.2);
+    transform: scale(1.04);
+    -webkit-animation-name: zoomin;
+    -webkit-animation-duration: 7s;
+  }
+.submit{
+    background: #5BC0F8;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: #5BC0F8;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-right: auto;
+    margin-left: auto;
+    text-transform: uppercase;
+}
+.submit:hover{
+    background:  #89C4E1;
+    text-decoration: none;
+}
+.drop{
+    background: #5BC0F8;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: #5BC0F8;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-right: auto;
+    margin-left: auto;
+}
+.drop:hover{
+    background:  #89C4E1;
+    text-decoration: none;
+}
