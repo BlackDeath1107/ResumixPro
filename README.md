@@ -1,6 +1,10 @@
 #   <h1 align="center">RESUMIX</h1>
 
 
+
+https://user-images.githubusercontent.com/95541726/216795838-df863fbf-f425-4435-91b0-894a9ebf2b9f.mp4
+
+
 ### What is the objective of RESUMIX ? 
 Resumix is a AI based website which helps users enters their skillsets and details based on which they would want to go for their desired internships and jobs. It is a one stop shop for beginners who want to look out for different jobs and internships to strengthen their resume. Wait! are you confused regarding creating your CV or resume? 
 <br/>
